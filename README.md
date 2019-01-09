@@ -7,8 +7,8 @@ Signal parameters
 
 Symbol rate fb: 1e3
 
-Carrier rate: 2e3
+Carrier frequency fc: 2e3
 
-Sampling frequency: 64e3
+Sampling frequency fs: 64e3
 
 signal channel ： awgn，rayleigh
